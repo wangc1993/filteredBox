@@ -1,4 +1,4 @@
-<h2>vue筛选器组件</h2>
+<h2>vue筛选器组件（右边图标基于element ui组件库）</h2>
 
 ```
 <filteredBox :tagArr="tagArr" @deleteTag="deleteTagFilter"></filteredBox>
